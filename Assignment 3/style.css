@@ -1,0 +1,24 @@
+.login{
+    width: 400px;
+    border: 2px solid black;
+    border-radius: 25px;
+    padding: 40px;
+  text-align: center;
+  background-color:gold;
+  box-shadow: 20px;
+}
+div{
+ text-align: center;
+}
+
+body {
+    display: flex;
+    justify-content: center;   /* horizontal center */
+    align-items: center;       /* vertical center */
+    height: 100vh;             /* full screen height */
+    margin: 0;
+}
+button{
+   
+   background-color: rgb(218, 35, 35);
+}
